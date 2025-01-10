@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    background-color:#0f0f0f ;
+}
+
+body::-webkit-scrollbar {
+    width: 0em;
+}
+
+
+
+.test{
+    width: 100vw;
+    height: 100vh;
+    color: white;
+}
+
